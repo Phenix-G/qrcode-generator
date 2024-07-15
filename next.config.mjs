@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    distDir: 'gh-pages',
+    distDir: 'docs',
 };
 
 export default nextConfig;
